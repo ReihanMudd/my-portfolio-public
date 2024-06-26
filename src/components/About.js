@@ -14,7 +14,8 @@ export default function About(){
                     <p className="mb-8 leading-relaxed">
                         Determined and enthusiastic high school junior with a passion for all things computer science. 
                         Bringing forth excellent organizational abilities, multitasking skills, and a strong work ethic. Adept
-                        at working with others and comitting myself as a team player.
+                        at working with others and comitting myself as a team player. This website is live and will be updated accordingly,
+                        keep watch for any other work and information I post on this website.
                     </p>
                     <div className="flex justify-center">
                         <a
